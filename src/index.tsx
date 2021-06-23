@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import './services/firebase';
+import './styles/global.scss';
+import "@fontsource/roboto";
+import "@fontsource/poppins";
 
 ReactDOM.render(
   <React.StrictMode>
